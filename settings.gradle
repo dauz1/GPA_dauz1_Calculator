@@ -1,0 +1,2 @@
+rootProject.name='gpa_dauz1_calculator'
+include ':app'
